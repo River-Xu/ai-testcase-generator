@@ -106,6 +106,7 @@ cp .env.example .env     # macOS/Linux
 <img width="2560" height="1305" alt="image" src="https://github.com/user-attachments/assets/07c399fe-d712-4eee-90e3-cab8d81407fc" />
 - CLI Demo：支持命令行批量生成测试用例并导出 Excel
 <img width="653" height="118" alt="image" src="https://github.com/user-attachments/assets/fc0b902f-c9c6-45f6-b827-247c2a4b6283" />
+
 ---
 
 ## 项目结构
