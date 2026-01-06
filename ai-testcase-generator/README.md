@@ -6,7 +6,6 @@
 - 支持：任意 **OpenAI-compatible** 大模型（OpenAI / Azure / DeepSeek / 本地兼容网关等）
 - 无 API Key 也可运行：提供 **本地规则引擎 fallback**，保证 Demo 可用
 
-> 适合作为 AI 应用岗简历项目：体现 Prompt Engineering、结构化输出、工程化封装、可落地的业务工具化能力。
 
 ---
 
@@ -92,7 +91,7 @@ cp .env.example .env     # macOS/Linux
 
 ---
 
-## 适合写进简历的描述（可直接复制）
+## 描述
 
 - 设计并实现「AI 测试用例生成器」，基于 Prompt Engineering 生成结构化测试用例并支持一键导出 Excel/JSON；提供 CLI 与 Web Demo，便于团队落地使用  
 - 支持 OpenAI-compatible 多模型接入（可切换 base_url/model），并实现无 Key 场景的规则引擎 fallback，保障可演示与可复用  
